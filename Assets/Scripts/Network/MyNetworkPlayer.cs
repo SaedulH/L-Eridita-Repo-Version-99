@@ -30,4 +30,7 @@ public class MyNetworkPlayer : NetworkBehaviour {
         displayColourRenderer.material.SetColor("_Color", colour_New_Colour);
     }
 
+
+
+
 }
